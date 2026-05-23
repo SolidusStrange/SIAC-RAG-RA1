@@ -1,0 +1,6 @@
+venv311/
+__pycache__/
+.env
+chroma/
+chroma_db/
+*.pyc
